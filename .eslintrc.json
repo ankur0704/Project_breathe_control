@@ -1,0 +1,17 @@
+{
+    "env": {
+      "browser": true,
+      "es2021": true
+    },
+    "extends": [
+      "eslint:recommended", // Default ESLint recommendations
+      "plugin:prettier/recommended" // Enables eslint-plugin-prettier and eslint-config-prettier
+    ],
+    "plugins": ["prettier"],
+    "rules": {
+      "prettier/prettier": "error", // Treat Prettier issues as ESLint errors
+      "no-unused-vars": "warn", // Customize ESLint rules (optional)
+      "no-console": "off" // Example: Allow console logs
+    }
+  }
+  
