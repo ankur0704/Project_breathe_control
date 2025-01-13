@@ -14,6 +14,8 @@ NodeJS Plugin: Adds support for Node.js and npm builds.
 4. Test Automation and Reporting
    etc
    ---
+   faced some difficulties and error while performing the task
+   --
    this was just a try to create a pipleine to a simple HTML CSS JS project
    ---
    THANK YOU
